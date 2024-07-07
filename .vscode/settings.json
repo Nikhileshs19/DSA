@@ -25,6 +25,7 @@
     "tuple": "cpp",
     "deque": "cpp",
     "cmath": "cpp",
-    "complex": "cpp"
+    "complex": "cpp",
+    "ratio": "cpp"
   }
 }
