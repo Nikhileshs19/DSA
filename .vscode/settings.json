@@ -26,6 +26,9 @@
     "deque": "cpp",
     "cmath": "cpp",
     "complex": "cpp",
-    "ratio": "cpp"
+    "ratio": "cpp",
+    "bitset": "cpp",
+    "initializer_list": "cpp",
+    "utility": "cpp"
   }
 }
