@@ -29,7 +29,9 @@ for dir_path in dir_paths:
 
 # Open the README.md file and write the total problem count, unique problem count, and problem count for each subfolder
 with open('README.md', 'w') as f:
-    f.write(f'Total Problems: {total_problems}\n')
-    f.write(f'Total Unique Problems: {len(unique_problems)}\n')
-    for subfolder, count in subfolder_counts.items():
-        f.write(f'Problems solved in {subfolder}: {count}\n')
+    f.write('# Problem Solving Tracker\n\n')
+    f.write(f'**Total Problems Solved:** {total_problems}\n\n')
+    f.write(f'**Total Unique Problems Solved:** {len(unique_problems)}\n\n')
+    f.write('## Problems Solved by Category\n\n')
+    for subfolder, count in sorted(subfolder_counts.items(), key=lambda item: item[1], reverse=True):
+        f.write(f'- **{subfolder.capitalize()}:** {count}\n')
