@@ -2,7 +2,7 @@
 
 **Total Problems Solved:** 174
 
-**Total Unique Problems Solved:** 82
+**Total Unique Problems Solved:** 109
 
 ## Problems Solved by Category
 

@@ -19,6 +19,9 @@ for dir_path in dir_paths:
                 if problem_number:
                     # Add the problem number to the set of unique problems
                     unique_problems.add(problem_number.group())
+            if 'gfg' in dir_path:
+                # Add the problem number to the set of unique problems
+                unique_problems.add(filename)
             total_problems += 1
 
             # Increment the count for the current subfolder
