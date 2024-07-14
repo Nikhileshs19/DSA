@@ -1,12 +1,12 @@
 # Problem Solving Tracker
 
-**Total Problems Solved:** 174
+**Total Problems Solved:** 177
 
-**Total Unique Problems Solved:** 109
+**Total Unique Problems Solved:** 112
 
 ## Problems Solved by Category
 
-- **Trees:** 29
+- **Trees:** 32
 - **Linked list:** 26
 - **Twopointers:** 23
 - **Array:** 21
