@@ -1,8 +1,8 @@
 # Problem Solving Tracker
 
-**Total Problems Solved:** 177
+**Total Problems Solved:** 182
 
-**Total Unique Problems Solved:** 112
+**Total Unique Problems Solved:** 117
 
 ## Problems Solved by Category
 
@@ -14,10 +14,10 @@
 - **Math:** 14
 - **Hashing:** 10
 - **Bit manipulation:** 8
+- **Dp:** 7
 - **Recursion:** 7
 - **Stack:** 6
 - **Sorting:** 3
-- **Dp:** 2
 - **Greedy:** 2
 - **Queue:** 2
 - **Graphs:** 2
