@@ -1,21 +1,21 @@
 # Problem Solving Tracker
 
-**Total Problems Solved:** 203
+**Total Problems Solved:** 208
 
-**Total Unique Problems Solved:** 138
+**Total Unique Problems Solved:** 143
 
 ## Problems by Platform
 
 - **LeetCode:** 159
-- **NeetCode:** 9
+- **NeetCode:** 14
 - **GFG:** 35
 
 ## Problems Solved by Category
 
 - **Trees:** 32
 - **Array:** 30
+- **Twopointers:** 28
 - **Linked list:** 26
-- **Twopointers:** 23
 - **Strings:** 18
 - **Dp:** 14
 - **Math:** 14
