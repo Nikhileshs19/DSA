@@ -14,7 +14,7 @@
 // Output: false
 
 
-
+```
 class Solution {
 public:
     bool hasDuplicate(vector<int>& nums) {
@@ -27,3 +27,4 @@ public:
         return 0;
     }
 };
+```
