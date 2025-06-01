@@ -1,19 +1,19 @@
 # Problem Solving Tracker
 
-**Total Problems Solved:** 228
+**Total Problems Solved:** 238
 
-**Total Unique Problems Solved:** 163
+**Total Unique Problems Solved:** 173
 
 ## Problems by Platform
 
 - **LeetCode:** 159
-- **NeetCode:** 34
+- **NeetCode:** 44
 - **GFG:** 35
 
 ## Problems Solved by Category
 
-- **Linked list:** 33
-- **Trees:** 32
+- **Trees:** 40
+- **Linked list:** 34
 - **Array:** 31
 - **Twopointers:** 28
 - **Strings:** 18
@@ -30,3 +30,4 @@
 - **Greedy:** 2
 - **Queue:** 2
 - **Sliding window:** 2
+- **Backtracking:** 1
