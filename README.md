@@ -1,33 +1,34 @@
 # Problem Solving Tracker
 
-**Total Problems Solved:** 238
+**Total Problems Solved:** 258
 
-**Total Unique Problems Solved:** 173
+**Total Unique Problems Solved:** 191
 
 ## Problems by Platform
 
-- **LeetCode:** 159
-- **NeetCode:** 44
+- **LeetCode:** 177
+- **NeetCode:** 46
 - **GFG:** 35
 
 ## Problems Solved by Category
 
 - **Trees:** 40
-- **Linked list:** 34
+- **Linked list:** 37
 - **Array:** 31
 - **Twopointers:** 28
-- **Strings:** 18
+- **Binary search:** 20
+- **Strings:** 19
 - **Dp:** 14
 - **Math:** 14
 - **Hashing:** 10
 - **Stack:** 10
 - **Bit manipulation:** 8
 - **Recursion:** 7
-- **Binary search:** 6
 - **Graphs:** 5
 - **Heap:** 3
 - **Sorting:** 3
 - **Greedy:** 2
 - **Queue:** 2
+- **Backtracking:** 2
 - **Sliding window:** 2
-- **Backtracking:** 1
+- **1ddp:** 1
