@@ -1,3 +1,40 @@
+145. Binary Tree Postorder Traversal
+     Solved
+     Easy
+     Topics
+     premium lock icon
+     Companies
+     Given the root of a binary tree, return the postorder traversal of its nodes' values.
+
+Example 1:
+
+Input: root = [1,null,2,3]
+
+Output: [3,2,1]
+
+Explanation:
+
+Example 2:
+
+Input: root = [1,2,3,4,5,null,8,null,null,6,7,9]
+
+Output: [4,6,7,5,2,9,8,3,1]
+
+Explanation:
+
+Example 3:
+
+Input: root = []
+
+Output: []
+
+Example 4:
+
+Input: root = [1]
+
+Output: [1]
+
+```
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -33,34 +70,4 @@ public:
         return ans;
     }
 };
-
-
-
-//Recursive
-void postorder(Node* root, vector<int>& arr){
-    // Base case: if root is null, return
-    if(root==NULL){
-        return;
-    }
-    // Traverse left subtree
-    postorder(root->left, arr);
-    // Traverse right subtree
-    postorder(root->right, arr);
-    // Visit the node
-    // (append node's data to the array)
-    arr.push_back(root->data);
-}
-
-// Function to get the postorder
-// traversal of a binary tree
-vector<int> postOrder(Node* root){
-    // Create a vector to
-    // store the traversal result
-    vector<int> arr;
-    // Perform postorder traversal
-    // starting from the root
-    postorder(root, arr);
-    // Return the postorder
-    // traversal result
-    return arr;
-}
+```
